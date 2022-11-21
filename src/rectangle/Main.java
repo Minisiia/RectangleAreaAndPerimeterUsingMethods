@@ -1,4 +1,4 @@
-package RectanglePack;
+package rectangle;
 
 import java.util.Scanner;
 
